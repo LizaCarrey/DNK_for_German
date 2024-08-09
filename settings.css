@@ -1,0 +1,51 @@
+img{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+.rr{
+    right: 0;
+}
+.test_text{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.test{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+body{
+    width: 100%;
+    background-color: rgb(255, 167, 255);
+}
+.za_denigi_da{
+    position: absolute;
+    padding-top: 450px;
+}
+.rr1{
+    padding-right: 160px;
+}
+.rr2{
+    padding-left: 120px;
+}
+.niz{
+    margin-top: 70vh;
+}
+.yt_MEGA_TOP{
+    
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+}
+.yt{
+}
